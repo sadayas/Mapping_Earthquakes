@@ -220,7 +220,7 @@ legend.onAdd = function() {
         opacity: 1,
         fillOpacity: 1,
         fillColor: getColor(feature.properties.mag),
-        color: "#8B0000",
+        color: "#6854D8",
         weight: 0.5
       };
     }
